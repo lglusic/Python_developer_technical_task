@@ -29,7 +29,7 @@ Now you can run crawler.py in:
 
 ## Enabeling extra data search
 
-You can enable extra data search by uncommenting two cone lines in crawler.py in function get_urls(). They are located between two boxes with instructions.
+You can enable extra data search by uncommenting two lines in crawler.py in function get_urls(). They are located between two boxes with instructions.
 
 ## Testing
 
