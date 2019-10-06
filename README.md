@@ -13,14 +13,14 @@ Crawler can search for some extra repository data like owner of repository and l
 ## Running
 
 If you want to run crawler.py you must first install some python library packages:
-	- requests
-	- beautifulsoup4
-	- lxml
+- requests
+- beautifulsoup4
+- lxml
 Input file needs to be in same folder as crawler.py!
 
 Now you can run crawler.py in:
-	- python IDE
-	- command line: python crawler.py
+- python IDE
+- command line: python crawler.py
 
 ## Enabeling extra data search
 
@@ -31,6 +31,6 @@ You can enable extra data search by uncommenting two cone lines in crawler.py in
 Before testing you will need to install 'validator_collection' package.
 If you want to run test, test.py needs to be in same folder as crawler.py.
 Now you can run test.py in:
-	- python IDE
-	- command line: python test.py
+- python IDE
+- command line: python test.py
 
